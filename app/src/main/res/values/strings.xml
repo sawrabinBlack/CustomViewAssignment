@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Custom View Assignment</string>
+    <string name="fun_off">off</string>
+    <string name="fan_low">1</string>
+    <string name="fan_med">2</string>
+    <string name="fan_high">3</string>
+    <string name="progress">85%</string>
+    <string name="lbl_omp_dashboard">OMP DashBoard</string>
+    <string name="lbl_create_task">CREATE TASK</string>
+    <string name="lbl_category">CATEGORY</string>
+    <string name="lbl_a_create_new_task">A Create New Task</string>
+    <string name="lbl_save">Save</string>
+    <string name="lbl_client">CLIENT</string>
+    <string name="lbl_project_name">PROJECT NAME</string>
+    <string name="lbl_assignee">ASSIGNEE</string>
+    <string name="lbl_dash">-</string>
+    <string name="lbl_start_date">Start Date</string>
+    <string name="lbl_end_date">End Date</string>
+    <string name="lbl_description">Description</string>
+    <string name="lbl_attachment">ATTACHMENT</string>
+    <string name="lbl_message">MESSAGE</string>
+    <!--    Generic with Ratio-->
+
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_card_medium">6dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_medium_2">16dp</dimen>
+    <dimen name="margin_card_medium_2">12dp</dimen>
+    <dimen name="margin_medium_3">20dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+    <dimen name="margin_xxlarge">48dp</dimen>
+    <dimen name="margin_small_n">-4dp</dimen>
+    <dimen name="margin_card_medium_n">-6dp</dimen>
+    <dimen name="margin_card_medium_2_n">-12dp</dimen>
+    <dimen name="margin_medium_n">8dp</dimen>
+    <dimen name="margin_medium_2_n">-16dp</dimen>
+    <dimen name="margin_medium_3_n">-18dp</dimen>
+    <dimen name="margin_large_n">-24dp</dimen>
+    <dimen name="margin_xlarge_n">-32dp</dimen>
+    <dimen name="text_smaller">10sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_regular">12sp</dimen>
+    <dimen name="text_regular_2x">14sp</dimen>
+    <dimen name="text_regular_3x">16sp</dimen>
+    <dimen name="text_heading_1x">24sp</dimen>
+    <dimen name="text_heading_2x">32sp</dimen>
+    <dimen name="text_big">40sp</dimen>
+    <dimen name="text_big_2x">60sp</dimen>
+    <dimen name="text_big_3x">80sp</dimen>
+</resources>
