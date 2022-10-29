@@ -1,10 +1,9 @@
 package com.example.customviewassignment.mvp.presenters
 
-import com.example.customviewassignment.delegates.AddNewTaskDelegate
 import com.example.customviewassignment.delegates.ProfilesDelegate
 import com.example.customviewassignment.mvp.views.CreateNewTaskView
 
-interface CreateNewTaskPresenter:IBasePresenter, ProfilesDelegate, AddNewTaskDelegate {
+interface CreateNewTaskPresenter:IBasePresenter, ProfilesDelegate {
     fun initView(view:CreateNewTaskView)
     fun onTapBack()
     fun onTapSave()

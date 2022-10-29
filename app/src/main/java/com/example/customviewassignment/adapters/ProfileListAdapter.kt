@@ -4,7 +4,6 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.customviewassignment.R
-import com.example.customviewassignment.delegates.AddNewTaskDelegate
 import com.example.customviewassignment.delegates.ProfilesDelegate
 import com.example.customviewassignment.views.viewholders.AddTaskViewHolder
 import com.example.customviewassignment.views.viewholders.BaseViewHolder
